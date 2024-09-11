@@ -15,7 +15,7 @@ Here are few resources which helped me:
 - [Original ColPali paper](https://arxiv.org/abs/2407.01449)
 - [Using Qwen+ColPali for Opensource RAG](https://github.com/merveenoyan/smol-vision/blob/main/ColPali_%2B_Qwen2_VL.ipynb)
 - [Colbert and Late Interaction](https://arxiv.org/abs/2004.12832)
-- [Video Explainer on ColPali]((https://youtu.be/rhJJynv47Pw))
+- [Video Explainer on ColPali](https://youtu.be/rhJJynv47Pw)
 - [Nice blog on end to end Multimodal RAG](https://blog.gopenai.com/the-future-of-rag-will-be-with-vision-end-to-end-example-with-colpali-and-a-vision-language-model-fe133667d2f9)
 
 
